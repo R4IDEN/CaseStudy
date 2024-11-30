@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\cartcase\\nunit\\_carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|solutionrelative:cartcase\\nunit\\_carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\Test.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\cartcase\\nunit\\_carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\Test.csproj|solutionrelative:cartcase\\nunit\\_carttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\cartcase\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|solutionrelative:cartcase\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971BFC56-AB08-463D-BE5D-196201A2D0C3}|Services\\Services.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\services\\concretes\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971BFC56-AB08-463D-BE5D-196201A2D0C3}|Services\\Services.csproj|solutionrelative:services\\concretes\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\cartcase\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|solutionrelative:cartcase\\entities\\base.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89DC3FE0-617F-441D-B940-294B1ADCC393}|Entities\\Entities.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DC3FE0-617F-441D-B940-294B1ADCC393}|Entities\\Entities.csproj|solutionrelative:entities\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\cartcase\\entities\\cartline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|solutionrelative:cartcase\\entities\\cartline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{89DC3FE0-617F-441D-B940-294B1ADCC393}|Entities\\Entities.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\entities\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89DC3FE0-617F-441D-B940-294B1ADCC393}|Entities\\Entities.csproj|solutionrelative:entities\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\cartcase\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{151C0454-CD39-4277-9FDA-4E1FEC874E46}|CartCase\\CartCase.csproj|solutionrelative:cartcase\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{971BFC56-AB08-463D-BE5D-196201A2D0C3}|Services\\Services.csproj|c:\\users\\qqq\\documents\\visual studio 2022\\projects\\cartcase\\services\\contracts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{971BFC56-AB08-463D-BE5D-196201A2D0C3}|Services\\Services.csproj|solutionrelative:services\\contracts\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,34 +30,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 8,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Base.cs",
-              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\Base.cs",
-              "RelativeDocumentMoniker": "CartCase\\Entities\\Base.cs",
-              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\Base.cs",
-              "RelativeToolTip": "CartCase\\Entities\\Base.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:25:03.22Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\Cart.cs",
-              "RelativeDocumentMoniker": "CartCase\\Entities\\Cart.cs",
-              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\Cart.cs",
-              "RelativeToolTip": "CartCase\\Entities\\Cart.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowBcAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:22:21.87Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
@@ -76,15 +50,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "CartCase\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\Product.cs",
-              "RelativeToolTip": "CartCase\\Entities\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CartService.cs",
+              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Services\\Concretes\\CartService.cs",
+              "RelativeDocumentMoniker": "Services\\Concretes\\CartService.cs",
+              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Services\\Concretes\\CartService.cs",
+              "RelativeToolTip": "Services\\Concretes\\CartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:34:56.931Z",
+              "WhenOpened": "2024-11-30T00:48:19.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICartService.cs",
+              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Services\\Contracts\\ICartService.cs",
+              "RelativeDocumentMoniker": "Services\\Contracts\\ICartService.cs",
+              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Services\\Contracts\\ICartService.cs",
+              "RelativeToolTip": "Services\\Contracts\\ICartService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:50:07.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Entities\\Cart.cs",
+              "RelativeDocumentMoniker": "Entities\\Cart.cs",
+              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Entities\\Cart.cs",
+              "RelativeToolTip": "Entities\\Cart.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:51:28.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Entities\\Models\\SessionCart.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\SessionCart.cs",
+              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\Entities\\Models\\SessionCart.cs",
+              "RelativeToolTip": "Entities\\Models\\SessionCart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T00:51:36.299Z",
               "EditorCaption": ""
             },
             {
@@ -95,22 +108,9 @@
               "RelativeDocumentMoniker": "CartCase\\NUnit\\_CartTest.cs",
               "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\NUnit\\_CartTest.cs",
               "RelativeToolTip": "CartCase\\NUnit\\_CartTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA0wGMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:50:20.474Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartLine.cs",
-              "DocumentMoniker": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\CartLine.cs",
-              "RelativeDocumentMoniker": "CartCase\\Entities\\CartLine.cs",
-              "ToolTip": "C:\\Users\\qqq\\Documents\\Visual Studio 2022\\Projects\\CartCase\\CartCase\\Entities\\CartLine.cs",
-              "RelativeToolTip": "CartCase\\Entities\\CartLine.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T20:38:11.236Z",
+              "WhenOpened": "2024-11-30T01:10:30.978Z",
               "EditorCaption": ""
             }
           ]
